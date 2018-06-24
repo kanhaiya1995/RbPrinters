@@ -2,7 +2,7 @@
 
 namespace RbPrinters.Api.DAL
 {
-    //changes
+    //changes test
     public class Class1
     {
     }
