@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RbPrinters.Api.BLL", "RbPrinters.Api.BLL\RbPrinters.Api.BLL.csproj", "{A6A38759-EFF6-457B-A2FB-3805682004B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RbPrinters.Api.DAL", "RbPrinters.Api.DAL\RbPrinters.Api.DAL.csproj", "{6203FEFD-5BC6-432C-BC4D-E55A2376A5FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A6A38759-EFF6-457B-A2FB-3805682004B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6A38759-EFF6-457B-A2FB-3805682004B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6A38759-EFF6-457B-A2FB-3805682004B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6203FEFD-5BC6-432C-BC4D-E55A2376A5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6203FEFD-5BC6-432C-BC4D-E55A2376A5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6203FEFD-5BC6-432C-BC4D-E55A2376A5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6203FEFD-5BC6-432C-BC4D-E55A2376A5FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
